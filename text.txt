@@ -1,0 +1,8 @@
+background: rgb(96,46,166);
+background: linear-gradient(145deg, hsl(282.93deg 56.68% 42.55%) 40%, hsl(249deg 47.17% 41.57%) 30%, hsl(280.8deg 72.82% 79.8%) 30% );
+
+hsl(282.93deg 56.68% 42.55%)
+
+hsl(249deg 47.17% 41.57%)
+
+hsl(280.8deg 72.82% 79.8%)
